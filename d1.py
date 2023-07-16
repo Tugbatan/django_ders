@@ -91,3 +91,12 @@
 
 #yeni bir klasör oluşturmak için : #!mkdir
 
+#Kullanılan portu değiştirme
+
+#! python manage.py runserver 8080
+
+
+#Eğer sunucunun IP adresini değiştirmek isterseniz port ile birlikte belirtin. 
+# Örnek olarak kullanılabilir tüm IP’leri dinlemek istiyorsanız şu kodu çalıştırın:
+
+#!python manage.py runserver 0:8000
