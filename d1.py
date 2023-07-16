@@ -9,7 +9,6 @@
 # geliştirilmiş bir araçtır diyebiliriz. Tam olarak Türkçe karşılığı
 # terimi bulamıyoruz ancak kısa sürede web siteleri oluşturmanızı sağlar. 
 
-
 #!KURULUM
 
 #Pip yöntemi ile kurulum
@@ -100,3 +99,5 @@
 # Örnek olarak kullanılabilir tüm IP’leri dinlemek istiyorsanız şu kodu çalıştırın:
 
 #!python manage.py runserver 0:8000
+
+
